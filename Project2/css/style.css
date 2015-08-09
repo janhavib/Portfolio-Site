@@ -1,0 +1,16 @@
+body {
+	font-family: Lato, sans-serif;
+}
+
+.logo {
+	width: 125px;
+	height: 125px;
+}
+
+h2 {
+	column-span: all;
+}
+
+a {
+	color: black;
+}
